@@ -45,6 +45,7 @@ transform: scale(1.1);
   text-transform: uppercase;
   border-radius: 300px;
   font-family: 'Montserrat', sans-serif;
+   margin-left: 200px;
 }
 
 .btn-xl {
@@ -54,8 +55,7 @@ transform: scale(1.1);
 .btn-primary {
   background-color: black;
   box-shadow: 5px 5px solid black;
-  transition: all 1s;
-  margin-left: 200px;}
+  transition: all 1s;}
 
 .btn-primary:hover {
   background-color: brown;
