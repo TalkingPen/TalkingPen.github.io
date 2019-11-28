@@ -31,9 +31,15 @@ header.startup hr {
 }
 
 header.startup h1 {
-  font-size: 2rem; 
+  font-size: 1.8rem; 
 }
 
+img{
+  transition: all 1s
+}
+img:hover{
+transform: scale(1.1);
+}
 .btn {
   font-weight: 700;
   text-transform: uppercase;
@@ -46,14 +52,13 @@ header.startup h1 {
 }
 
 .btn-primary {
-  background-color: #F05F44;
-  border-color: #F05F44;
+  background-color: black;
+  box-shadow: 5px 5px solid black;
   transition: all 0.5s; }
 
 .btn-primary:hover {
-  background-color: #ee4b08;
-  border-color: #ee4b08;
-  border-width: 5px;
+  background-color: brown;
+  border-width: 1px;
   cursor: pointer;
 }
  
