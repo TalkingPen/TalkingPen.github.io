@@ -55,7 +55,7 @@ transform: scale(1.1);
   background-color: black;
   box-shadow: 5px 5px solid black;
   transition: all 1s;
-  margin-left: 30px;}
+  margin-left: 200px;}
 
 .btn-primary:hover {
   background-color: brown;
